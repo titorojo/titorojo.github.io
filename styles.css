@@ -1,0 +1,116 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    top: 0;
+}
+
+div.container {
+    width: 100%;
+}
+
+div.box1 {
+    box-sizing: border-box;
+    width: 50%;
+
+    float: left;
+    padding: 5px;
+}
+
+div.box2 {
+    box-sizing: border-box;
+    width: 50%;
+    float: left;
+    text-align: center;
+    padding: 80px;
+
+}
+
+div.imagen{
+    text-align: center;
+}
+
+
+div.container_2 {
+    width: 100%;
+}
+
+div.sobre_mi {
+    box-sizing: border-box;
+    width: 50%;
+
+    float: left;
+    text-align: center;
+    padding: 75px;
+}
+
+div.educacion {
+    box-sizing: border-box;
+    width: 50%;
+    float: left;
+    text-align: center;
+    padding-top: 75px;
+    padding-bottom: 20px;
+
+}
+
+div.container_3 {
+    width: 100%;
+}
+
+
+div.informacion {
+    box-sizing: border-box;
+    width: 50%;
+
+    float: left;
+    text-align: center;
+    padding-top: 75px;
+    padding-bottom: 305px;
+}
+
+div.experiencia {
+    box-sizing: border-box;
+    width: 50%;
+    float: left;
+    text-align: center;
+    padding-top: 75px;
+    padding-bottom: 110px;
+
+}
+
+
+div.container_4 {
+    width: 100%;
+}
+
+
+div.idioma {
+    box-sizing: border-box;
+    width: 50%;
+    float: left;
+    text-align: center;
+    padding: 75px;
+
+}
+
+section#contacto {
+    line-height: 1cm;
+    box-sizing: border-box;
+    width: 100%;
+    float: left;
+    padding: 5px;
+    text-align: center;
+    background-color: lightgray;
+}
+
+h3 { font-size: 250% }
+
+
+/*
+<div style="background-color:black;color:white;padding:20px;">
+  <h2>London</h2>
+  <p>London is the capital city of England. It is the most populous city in the United Kingdom, with a metropolitan area of over 13 million inhabitants.</p>
+</div>
+
+*/
